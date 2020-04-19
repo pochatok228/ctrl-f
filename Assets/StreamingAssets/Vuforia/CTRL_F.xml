@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="launch" size="1.000000 0.750000" />
+    <ImageTarget name="intr_moment_2" size="1.000000 0.518487" />
+    <ImageTarget name="play_button" size="1.000000 0.736667" />
+    <ImageTarget name="intr_moment" size="1.000000 0.566898" />
+    <ImageTarget name="Bro" size="1.000000 1.000000" />
+    <ImageTarget name="Buterbrodskiy" size="1.000000 1.401250" />
+    <ImageTarget name="BBC_Image" size="1.000000 1.000000" />
+    <ImageTarget name="COVID-19" size="1.000000 0.666327" />
+  </Tracking>
+</QCARConfig>
